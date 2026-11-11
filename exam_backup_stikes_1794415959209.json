@@ -1,0 +1,175 @@
+{
+  "exams": [
+    {
+      "id": 1,
+      "title": "Farmakologi Klinik - UTS",
+      "classTarget": "Farmasi Kelas A",
+      "duration": 60,
+      "passcode": "EXAM2026",
+      "status": "published"
+    },
+    {
+      "id": 1794411894904,
+      "title": "TERAPI NUTRISI MEDIK",
+      "classTarget": "RPL-1A",
+      "duration": 60,
+      "passcode": "TNM2026",
+      "status": "published"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1794412224647.5737,
+      "examId": 1794411894904,
+      "type": "mc",
+      "text": "Terapi Nutrisi Medis (TNM) didefinisikan sebagai intervensi klinis berbasis ilmu gizi klinik. Manakah di bawah ini yang BUKAN merupakan komponen terintegrasi dari TNM?",
+      "options": [
+        "Asesmen status nutrisi komprehensif",
+        "Diagnosis masalah nutrisi spesifik",
+        "Perencanaan intervensi nutrisi terukur",
+        "Preskripsi antibiotik spektrum luas secara empiris",
+        "Monitoring dan evaluasi hasil secara sistematis"
+      ],
+      "correct": "3",
+      "score": 2
+    },
+    {
+      "id": 1794412224647.6077,
+      "examId": 1794411894904,
+      "type": "mc",
+      "text": "Tiga sasaran utama dari Medical Nutrition Therapy (MNT) meliputi hal-hal di bawah ini, KECUALI...",
+      "options": [
+        "Mempertahankan atau memperbaiki status gizi pasien",
+        "Mendukung proses penyembuhan dan pemulihan",
+        "Meningkatkan luaran klinis secara keseluruhan",
+        "Menggantikan seluruh peranan farmakoterapi obat modern",
+        "Memperbaiki kecukupan asupan energi dan protein"
+      ],
+      "correct": "3",
+      "score": 2
+    },
+    {
+      "id": 1794412224647.5288,
+      "examId": 1794411894904,
+      "type": "mc",
+      "text": "Hubungan antara nutrisi dan penyakit bersifat bidireksional (dua arah). Pernyataan yang BUKAN menunjukkan pengaruh penyakit terhadap nutrisi adalah...",
+      "options": [
+        "Penyakit dapat menurunkan nafsu makan (anoreksia)",
+        "Penyakit meningkatkan kebutuhan zat gizi akibat stres metabolik",
+        "Penyakit dapat mengganggu absorpsi zat gizi di saluran cerna",
+        "Pola makan sehat menurunkan risiko terkena penyakit kronis",
+        "Penyakit mengubah metabolisme normal tubuh"
+      ],
+      "correct": "3",
+      "score": 2
+    },
+    {
+      "id": 1794412224647.431,
+      "examId": 1794411894904,
+      "type": "mc",
+      "text": "Komponen dasar kebutuhan zat gizi pasien meliputi hal-hal berikut, KECUALI...",
+      "options": [
+        "Energi untuk metabolisme basal dan aktivitas",
+        "Protein untuk pembentukan jaringan dan perbaikan sel",
+        "Cairan untuk menjaga keseimbangan tubuh",
+        "Elektrolit (Na+, K+, Cl-) dan vitamin",
+        "Zat aditif sintetis pewarna makanan"
+      ],
+      "correct": "4",
+      "score": 2
+    },
+    {
+      "id": 1794412224647.1929,
+      "examId": 1794411894904,
+      "type": "mc",
+      "text": "Pada kasus pasien usia 58 tahun dengan penyakit kronis, nafsu makan menurun (hanya habis 1/2 porsi), BB menurun, dan minum banyak obat, tindakan awal yang BUKAN merupakan keputusan terapi valid adalah...",
+      "options": [
+        "Langsung menyuruh pasien \"makan lebih banyak\" tanpa pengkajian data",
+        "Mengumpulkan data BB aktual dan perubahan BB",
+        "Mengkaji data asupan makanan dan riwayat obat",
+        "Mengevaluasi data laboratorium relevan",
+        "Melakukan kolaborasi dengan tim interprofessional"
+      ],
+      "correct": "0",
+      "score": 2
+    },
+    {
+      "id": 1794412224647.7197,
+      "examId": 1794411894904,
+      "type": "mc",
+      "text": "Pernyataan mana yang BENAR mengenai urutan proses posisi terapi nutrisi dalam pelayanan pasien?",
+      "options": [
+        "Pengkajian -> Identifikasi Masalah -> Penentuan Kebutuhan -> Intervensi -> Monitoring & Evaluasi",
+        "Intervensi -> Pengkajian -> Monitoring -> Penentuan Kebutuhan",
+        "Monitoring -> Intervensi -> Identifikasi Masalah -> Pengkajian",
+        "Penentuan Kebutuhan -> Monitoring -> Intervensi -> Pengkajian",
+        "Identifikasi Masalah -> Intervensi -> Pengkajian -> Monitoring"
+      ],
+      "correct": "0",
+      "score": 2
+    },
+    {
+      "id": 1794412224647.221,
+      "examId": 1794411894904,
+      "type": "mc",
+      "text": "Apakah obat selalu bekerja optimal jika kondisi nutrisi pasien buruk? Pernyataan yang paling TEPAT adalah...",
+      "options": [
+        "Ya, obat bekerja independen tanpa dipengaruhi protein plasma atau status gizi",
+        "Tidak, malnutrisi dapat mengubah ikatan protein obat, metabolisme, dan respons imun tubuh",
+        "Ya, status nutrisi hanya mempengaruhi pencernaan makanan",
+        "Tidak, obat hanya bekerja jika pasien mengonsumsi suplemen vitamin C tinggi",
+        "Ya, karena dosis obat sudah baku untuk semua orang"
+      ],
+      "correct": "1",
+      "score": 2
+    },
+    {
+      "id": 1794412224647.3757,
+      "examId": 1794411894904,
+      "type": "mc",
+      "text": "Manakah pernyataan di bawah ini yang MERUPAKAN Mitos / Pernyataan SALAH terkait Terapi Nutrisi Medis?",
+      "options": [
+        "Terapi nutrisi medikal sama dengan diet sehat umum untuk orang bugar",
+        "Kebutuhan nutrisi selalu sama jika berat badan sama",
+        "Tenaga kefarmasian tidak punya peran dalam pelayanan nutrisi",
+        "Pernyataan a, b, dan c semuanya SALAH (Mitos)",
+        "Terapi nutrisi harus mempertimbangkan kondisi klinis pasien"
+      ],
+      "correct": "3",
+      "score": 2
+    },
+    {
+      "id": 1794412224647.9104,
+      "examId": 1794411894904,
+      "type": "mc",
+      "text": "Kelebihan asupan zat gizi lemak jenuh secara kronis dan berlebihan dapat memicu kondisi patologis berupa...",
+      "options": [
+        "Aterosklerosis",
+        "Kwashiorkor",
+        "Rakitis",
+        "Anemia defisiensi",
+        "Scorbut"
+      ],
+      "correct": "0",
+      "score": 2
+    },
+    {
+      "id": 1794412224647.1687,
+      "examId": 1794411894904,
+      "type": "mc",
+      "text": "Metabolisme basal tubuh (BMR) dipertahankan oleh zat gizi utama terutama untuk...",
+      "options": [
+        "Fungsi vital organ seperti jantung, paru, otak, dan ginjal saat istirahat",
+        "Aktivitas olahraga lari maraton",
+        "Prosedur pembedahan manipulasi organ",
+        "Penyimpanan cadangan glikogen maksimal saat berlari",
+        "Pengeluaran zat sisa berupa keringat berlebih"
+      ],
+      "correct": "0",
+      "score": 2
+    }
+  ],
+  "banner": "file:///Users/macbook/Documents/Aplikasi%20Mami/aplikasi%20Ujian/Dosen%20Farmasi%20Elegan%20di%20EXAM%20Zone.png",
+  "submissions": [],
+  "backupDate": "2026-11-11T16:52:39.208Z"
+}
